@@ -1,0 +1,19 @@
+﻿  Game.cpp
+C:\Users\Clement\source\repos\raycaster\Game.cpp(139,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Clement\source\repos\raycaster\Game.cpp(169,27): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Clement\source\repos\raycaster\Game.cpp(169,13): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Clement\source\repos\raycaster\Game.cpp(210,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Clement\source\repos\raycaster\Game.cpp(211,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Clement\source\repos\raycaster\Game.cpp(212,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Clement\source\repos\raycaster\Game.cpp(214,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Clement\source\repos\raycaster\Game.cpp(235,20): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Clement\source\repos\raycaster\Game.cpp(236,20): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Clement\source\repos\raycaster\Game.cpp(254,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Clement\source\repos\raycaster\Game.cpp(260,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Clement\source\repos\raycaster\Game.cpp(278,108): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Clement\source\repos\raycaster\Game.cpp(278,74): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Clement\source\repos\raycaster\Game.cpp(278,38): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Clement\source\repos\raycaster\Game.cpp(278,16): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  main.cpp
+  Generating Code...
+  raycaster.vcxproj -> C:\Users\Clement\source\repos\raycaster\x64\Debug\raycaster.exe
