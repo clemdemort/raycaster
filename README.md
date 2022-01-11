@@ -1,5 +1,11 @@
 # raycaster
-a simple raycaster using SDL2
+a simple Wolfenstein style raycaster using SDL2
+
+
+
+https://user-images.githubusercontent.com/62178977/148992916-6c6b98c1-a4c1-4cc0-84ad-880839c63b92.mp4
+
+
 
 use this as you want i dont really care.
 
